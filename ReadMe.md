@@ -21,7 +21,7 @@ cd electron-vite-app && npm i
 3. Run in development mode
 
 ```
-npm run dev
+npm start
 ```
 
 4. Package the application
