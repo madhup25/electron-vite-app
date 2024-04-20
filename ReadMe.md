@@ -24,8 +24,14 @@ cd electron-vite-app && npm i
 npm start
 ```
 
-4. Package the application
+4. Package/Make the application
 
 ```
 npm run package
+OR
+npm run make
 ```
+
+5. Find the app inside the out folder - `out/make/zip/{platform}/{architecture}/app.zip`
+
+6. Unzip the file and run the extracted application
